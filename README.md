@@ -3,7 +3,7 @@ Generic list of anything awesome built in Nepal/by Nepali
 
 Javascript
 ----------
-1. [Prepros] (https://prepros.io/) by [Subash Pathak](https://github.com/Subash)
+1. [Prepros] (https://prepros.io/)
 2. [alert.js] (https://github.com/ankitpokhrel/alert.js/)
 3. [unicode.js] (https://github.com/ankitpokhrel/unicode.js)
 
