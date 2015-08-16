@@ -7,6 +7,10 @@ Javascript
 2. [alert.js] (https://github.com/ankitpokhrel/alert.js/)
 3. [unicode.js] (https://github.com/ankitpokhrel/unicode.js)
 
+Python
+---------
+1. [QuakeCL] (https://github.com/studenton/QuakeCL)
+
 Shell
 ----------
 1. [Bash Backdoor] (https://github.com/techgaun/bash-backdoor)
