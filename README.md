@@ -9,12 +9,14 @@ Javascript
 
 Python
 ---------
+1. [DynamoDB Table Copy] (https://github.com/techgaun/dynamodb-copy-table)
 1. [QuakeCL] (https://github.com/studenton/QuakeCL)
 
 Shell
 ----------
 1. [Bash Backdoor] (https://github.com/techgaun/bash-backdoor)
 2. [Exploit DB Search] (https://github.com/techgaun/exploit-db-search)
+3. [Mustang - Video to GIF] (https://github.com/techgaun/mustang)
 
 WordPress Plugins
 -----------------
@@ -24,6 +26,11 @@ WordPress Plugins
 4. [Masonry Layout (Pinterest Like Grid)] (https://wordpress.org/plugins/wp-masonry-layout/)
 5. [Use Any Font] (https://wordpress.org/plugins/use-any-font/)
 6. [WooCommerce Multiple Free Gift] (https://github.com/ankitpokhrel/WooCommerce-Multiple-Free-Gift)
+
+Misc
+-----------------
+1. [Github dorks] (https://github.com/techgaun/github-dorks)
+2. [Unix time in various languages] (https://github.com/techgaun/unix-time)
 
 Guidelines
 ----------
