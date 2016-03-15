@@ -3,35 +3,35 @@ Generic list of anything awesome built in Nepal/by Nepali
 
 Javascript
 ----------
-1. [Prepros] (https://prepros.io/)
-2. [alert.js] (https://github.com/ankitpokhrel/alert.js/)
-3. [unicode.js] (https://github.com/ankitpokhrel/unicode.js)
+- [Prepros] (https://prepros.io/)
+- [alert.js] (https://github.com/ankitpokhrel/alert.js/)
+- [unicode.js] (https://github.com/ankitpokhrel/unicode.js)
 
 Python
 ---------
-1. [DynamoDB Table Copy] (https://github.com/techgaun/dynamodb-copy-table)
-1. [QuakeCL] (https://github.com/studenton/QuakeCL)
+- [DynamoDB Table Copy] (https://github.com/techgaun/dynamodb-copy-table)
+- [QuakeCL] (https://github.com/studenton/QuakeCL)
 
 Shell
 ----------
-1. [Bash Backdoor] (https://github.com/techgaun/bash-backdoor)
-2. [Exploit DB Search] (https://github.com/techgaun/exploit-db-search)
-3. [Ghatta - helper for generator-nm module](https://github.com/techgaun/ghatta)
-4. [Mustang - Video to GIF] (https://github.com/techgaun/mustang)
+- [Bash Backdoor] (https://github.com/techgaun/bash-backdoor)
+- [Exploit DB Search] (https://github.com/techgaun/exploit-db-search)
+- [Ghatta - helper for generator-nm module](https://github.com/techgaun/ghatta)
+- [Mustang - Video to GIF] (https://github.com/techgaun/mustang)
 
 WordPress Plugins
 -----------------
-1. [Any Mobile Theme Switcher] (https://wordpress.org/plugins/any-mobile-theme-switcher/)
-2. [Dynamic Featured Image] (https://github.com/ankitpokhrel/Dynamic-Featured-Image)
-3. [Jquery Validation For Contact Form 7] (https://wordpress.org/plugins/jquery-validation-for-contact-form-7/)
-4. [Masonry Layout (Pinterest Like Grid)] (https://wordpress.org/plugins/wp-masonry-layout/)
-5. [Use Any Font] (https://wordpress.org/plugins/use-any-font/)
-6. [WooCommerce Multiple Free Gift] (https://github.com/ankitpokhrel/WooCommerce-Multiple-Free-Gift)
+- [Any Mobile Theme Switcher] (https://wordpress.org/plugins/any-mobile-theme-switcher/)
+- [Dynamic Featured Image] (https://github.com/ankitpokhrel/Dynamic-Featured-Image)
+- [Jquery Validation For Contact Form 7] (https://wordpress.org/plugins/jquery-validation-for-contact-form-7/)
+- [Masonry Layout (Pinterest Like Grid)] (https://wordpress.org/plugins/wp-masonry-layout/)
+- [Use Any Font] (https://wordpress.org/plugins/use-any-font/)
+- [WooCommerce Multiple Free Gift] (https://github.com/ankitpokhrel/WooCommerce-Multiple-Free-Gift)
 
 Misc
 -----------------
-1. [Github dorks] (https://github.com/techgaun/github-dorks)
-2. [Unix time in various languages] (https://github.com/techgaun/unix-time)
+- [Github dorks] (https://github.com/techgaun/github-dorks)
+- [Unix time in various languages] (https://github.com/techgaun/unix-time)
 
 Guidelines
 ----------
