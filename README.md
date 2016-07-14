@@ -1,6 +1,12 @@
 # awesome-nepal
 Generic list of anything awesome built in Nepal/by Nepali
 
+Elixir
+----------
+- [http_digex] (https://github.com/techgaun/http_digex)
+- [hulaaki - MQTT library] (https://github.com/suvash/hulaaki)
+- [Plug_secex] (https://github.com/techgaun/plug_secex)
+
 Javascript
 ----------
 - [Prepros] (https://prepros.io/)
@@ -10,7 +16,9 @@ Javascript
 Python
 ---------
 - [DynamoDB Table Copy] (https://github.com/techgaun/dynamodb-copy-table)
+- [Github dorks] (https://github.com/techgaun/github-dorks)
 - [QuakeCL] (https://github.com/studenton/QuakeCL)
+- [Top Github Repos in CLI] (https://github.com/techgaun/gh-top-repos)
 
 Shell
 ----------
@@ -30,8 +38,12 @@ WordPress Plugins
 
 Misc
 -----------------
-- [Github dorks] (https://github.com/techgaun/github-dorks)
 - [Unix time in various languages] (https://github.com/techgaun/unix-time)
+- [Phoenix snippets for Atom] (https://github.com/techgaun/phoenix-snippets)
+
+Blogs
+-----------------
+Our list of awesome nepali blogs is in [separate repo](https://github.com/dev-nepal/blogs).
 
 Guidelines
 ----------
