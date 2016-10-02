@@ -3,8 +3,10 @@ Generic list of anything awesome built in Nepal/by Nepali
 
 Elixir
 ----------
+- [ExGoogle](https://github.com/techgaun/ex_google) - Google Cloud SDK
 - [http_digex] (https://github.com/techgaun/http_digex)
 - [hulaaki - MQTT library] (https://github.com/suvash/hulaaki)
+- [Mustang Slackbot](https://github.com/techgaun/ex_mustang)
 - [Plug_secex] (https://github.com/techgaun/plug_secex)
 
 Javascript
@@ -17,6 +19,7 @@ Python
 ---------
 - [DynamoDB Table Copy] (https://github.com/techgaun/dynamodb-copy-table)
 - [Github dorks] (https://github.com/techgaun/github-dorks)
+- [Nepali Calendar Indicator](https://github.com/techgaun/nepali-calendar-indicator)
 - [QuakeCL] (https://github.com/studenton/QuakeCL)
 - [Top Github Repos in CLI] (https://github.com/techgaun/gh-top-repos)
 
