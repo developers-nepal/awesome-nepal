@@ -46,7 +46,7 @@ Misc
 
 Blogs
 -----------------
-Our list of awesome nepali blogs is in [separate repo](https://github.com/dev-nepal/blogs).
+Our list of awesome nepali blogs is in [separate repo](https://github.com/developers-nepal/blogs).
 
 Guidelines
 ----------
