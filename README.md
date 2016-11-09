@@ -15,8 +15,9 @@ Javascript
 - [alert.js] (https://github.com/ankitpokhrel/alert.js/)
 - [unicode.js] (https://github.com/ankitpokhrel/unicode.js)
 - [just-handlebars-helpers] (https://github.com/leapfrogtechnology/just-handlebars-helpers) - A lightweight package with common handlebars helpers.
-- [keycode-js] (https://github.com/kabirbaidhya/keycode-js) - A javascript package with Key Code constants
-- [pglistend] (https://github.com/kabirbaidhya/pglistend) - Postgres LISTEN Daemon using NodeJS
+- [keycode-js] (https://github.com/kabirbaidhya/keycode-js) - A javascript package with Key Code constants.
+- [pglistend] (https://github.com/kabirbaidhya/pglistend) - Postgres LISTEN Daemon using NodeJS.
+- [get-js] (https://github.com/kabirbaidhya/get-js) - A lightweight promise based package to load scripts on the fly.
 
 Python
 ---------
