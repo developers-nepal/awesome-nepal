@@ -18,6 +18,7 @@ Javascript
 - [keycode-js] (https://github.com/kabirbaidhya/keycode-js) - A javascript package with Key Code constants.
 - [pglistend] (https://github.com/kabirbaidhya/pglistend) - Postgres LISTEN Daemon using NodeJS.
 - [get-js] (https://github.com/kabirbaidhya/get-js) - A lightweight promise based package to load scripts on the fly.
+- [cutcode](https://github.com/studenton/cutcode) - Chrome extension to double click stackoverflow code to copy it
 
 Python
 ---------
