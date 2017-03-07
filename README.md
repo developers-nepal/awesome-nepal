@@ -3,6 +3,7 @@ Generic list of anything awesome built in Nepal/by Nepali
 
 Elixir
 ----------
+- [Auth0Ex](https://github.com/techgaun/auth0_ex) - Auth0 Client Library for Elixir
 - [ExGoogle](https://github.com/techgaun/ex_google) - Google Cloud SDK
 - [http_digex] (https://github.com/techgaun/http_digex)
 - [hulaaki - MQTT library] (https://github.com/suvash/hulaaki)
@@ -11,14 +12,15 @@ Elixir
 
 Javascript
 ----------
-- [Prepros] (https://prepros.io/)
+- [AD BS Converter](https://github.com/techgaun/ad-bs-converter)
 - [alert.js] (https://github.com/ankitpokhrel/alert.js/)
-- [unicode.js] (https://github.com/ankitpokhrel/unicode.js)
+- [cutcode](https://github.com/studenton/cutcode) - Chrome extension to double click stackoverflow code to copy it
+- [get-js] (https://github.com/kabirbaidhya/get-js) - A lightweight promise based package to load scripts on the fly.
 - [just-handlebars-helpers] (https://github.com/leapfrogtechnology/just-handlebars-helpers) - A lightweight package with common handlebars helpers.
 - [keycode-js] (https://github.com/kabirbaidhya/keycode-js) - A javascript package with Key Code constants.
 - [pglistend] (https://github.com/kabirbaidhya/pglistend) - Postgres LISTEN Daemon using NodeJS.
-- [get-js] (https://github.com/kabirbaidhya/get-js) - A lightweight promise based package to load scripts on the fly.
-- [cutcode](https://github.com/studenton/cutcode) - Chrome extension to double click stackoverflow code to copy it
+- [Prepros] (https://prepros.io/)
+- [unicode.js] (https://github.com/ankitpokhrel/unicode.js)
 
 Python
 ---------
@@ -46,8 +48,8 @@ WordPress Plugins
 
 Misc
 -----------------
-- [Unix time in various languages] (https://github.com/techgaun/unix-time)
 - [Phoenix snippets for Atom] (https://github.com/techgaun/phoenix-snippets)
+- [Unix time in various languages] (https://github.com/techgaun/unix-time)
 
 Blogs
 -----------------
