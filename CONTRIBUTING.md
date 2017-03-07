@@ -8,4 +8,5 @@ We'd love for you to contribute in this community driven effort to recognize awe
 * Please make sure the awesome stuff(s) you want to add is/are not already in the list
 * Please put the stuff in appropriate category
 * If none of the existing categories fit, please add a sensible category or just put it in miscellaneous
+* Make sure to follow alphabetical order
 * Please do not promote any commercially motivated products
