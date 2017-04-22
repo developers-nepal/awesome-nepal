@@ -1,4 +1,4 @@
-# awesome-nepal
+# awesome-nepal [![Build Status](https://travis-ci.org/developers-nepal/awesome-nepal.svg?branch=master)](https://travis-ci.org/developers-nepal/awesome-nepal)
 Generic list of anything awesome built in Nepal/by Nepali :nepal:
 
 Elixir
