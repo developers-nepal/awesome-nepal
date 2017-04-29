@@ -14,7 +14,7 @@ JavaScript
 ----------
 - [AD BS Converter](https://github.com/techgaun/ad-bs-converter)
 - [alert.js](https://github.com/ankitpokhrel/alert.js/)
-- [cutcode](https://github.com/studenton/cutcode) - Chrome extension to double click Stack Overflow code to copy it
+- [cutcode](https://github.com/amitness/cutcode) - Chrome extension to double click Stack Overflow code to copy it
 - [geoJSON-Nepal](http://mesaugat.github.io/geoJSON-Nepal/) - geoJSON data for Nepal.
 - [get-js](https://github.com/kabirbaidhya/get-js) - A lightweight promise based package to load scripts on the fly
 - [just-handlebars-helpers](https://github.com/leapfrogtechnology/just-handlebars-helpers) - A lightweight package with common handlebars helpers
@@ -29,7 +29,7 @@ Python
 - [DynamoDB Table Copy](https://github.com/techgaun/dynamodb-copy-table)
 - [Github dorks](https://github.com/techgaun/github-dorks)
 - [Nepali Calendar Indicator](https://github.com/techgaun/nepali-calendar-indicator)
-- [QuakeCL](https://github.com/studenton/QuakeCL)
+- [QuakeCL](https://github.com/amitness/QuakeCL)
 - [Top Github Repos in CLI](https://github.com/techgaun/gh-top-repos)
 
 Shell
