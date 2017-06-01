@@ -32,6 +32,10 @@ Python
 - [QuakeCL](https://github.com/amitness/QuakeCL)
 - [Top Github Repos in CLI](https://github.com/techgaun/gh-top-repos)
 
+Ruby
+---------
+- [Hulaki](https://github.com/shivabhusal/hulaki) Hulaki is a CLI tool to search contact details from your CSV file and sending easy SMS and Emails with single command. Gateways like `Nexmo`, `Twilio` are supported and `SparrowSMS` in pipeline.
+
 Shell
 ----------
 - [Bash Backdoor](https://github.com/techgaun/bash-backdoor)
