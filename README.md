@@ -34,7 +34,7 @@ Python
 
 Ruby
 ---------
-- [Hulaki](https://github.com/shivabhusal/hulaki) Hulaki is a CLI tool to search contact details from your CSV file and sending easy SMS and Emails with single command. Gateways like `Nexmo`, `Twilio` are supported and `SparrowSMS` in pipeline.
+- [Hulaki](https://github.com/shivabhusal/hulaki) A CLI tool to search contact details from your `CSV file` imported from your mobile phones and sending easy SMSes and Emails with single command. Gateways like `Nexmo`, `Twilio` are supported and `SparrowSMS` in pipeline. You can even ask Hulaki to copy phone-number to Clipboard.
 
 Shell
 ----------
