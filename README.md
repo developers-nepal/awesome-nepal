@@ -35,6 +35,7 @@ Python
 Ruby
 ---------
 - [Hulaki](https://github.com/shivabhusal/hulaki) A CLI tool to search contact details from your `CSV file` imported from your mobile phones and sending easy SMSes and Emails with single command. Gateways like `Nexmo`, `Twilio` are supported and `SparrowSMS` in pipeline. You can even ask Hulaki to copy phone-number to Clipboard.
+- [Xtractor](https://github.com/Kamalpaneru/Xtractor) is a ruby gem that was developed as a need to the problem of inserting data from an excelsheet image to excel.And it does the same as described.
 
 Shell
 ----------
