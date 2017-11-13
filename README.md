@@ -36,6 +36,7 @@ Ruby
 ---------
 - [Hulaki](https://github.com/shivabhusal/hulaki) A CLI tool to search contact details from your `CSV file` imported from your mobile phones and sending easy SMSes and Emails with single command. Gateways like `Nexmo`, `Twilio` are supported and `SparrowSMS` in pipeline. You can even ask Hulaki to copy phone-number to Clipboard.
 - [Xtractor](https://github.com/Kamalpaneru/Xtractor) is a ruby gem that was developed as a need to the problem of inserting data from an excelsheet image to excel.And it does the same as described.
+- [Nepali Date Converter](https://github.com/przbadu/nepali_date_converter) - ruby gem to convert A.D (English Date) to Nepali Date (B.S) and vice versa
 
 Shell
 ----------
@@ -52,6 +53,11 @@ WordPress Plugins
 - [Masonry Layout - Pinterest Like Grid](https://wordpress.org/plugins/wp-masonry-layout/)
 - [Use Any Font](https://wordpress.org/plugins/use-any-font/)
 - [WooCommerce Multiple Free Gift](https://github.com/ankitpokhrel/WooCommerce-Multiple-Free-Gift)
+
+.Net
+--------
+
+- [NepaliDateConverter.Net](https://github.com/przbadu/NepaliDateConverter.Net) - C# Class library for nepali date converter, with NUnit testing framework
 
 Misc
 -----------------
