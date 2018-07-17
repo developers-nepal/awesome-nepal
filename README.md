@@ -30,6 +30,7 @@ PHP
 
 Python
 ---------
+- [Rhee - a general purpose Nepali programming language](https://github.com/biprasu/mrhee)
 - [DynamoDB Table Copy](https://github.com/techgaun/dynamodb-copy-table)
 - [Github dorks](https://github.com/techgaun/github-dorks)
 - [Nepali Calendar Indicator](https://github.com/techgaun/nepali-calendar-indicator)
