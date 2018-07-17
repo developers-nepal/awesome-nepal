@@ -34,6 +34,7 @@ Python
 - [Github dorks](https://github.com/techgaun/github-dorks)
 - [Nepali Calendar Indicator](https://github.com/techgaun/nepali-calendar-indicator)
 - [QuakeCL](https://github.com/amitness/QuakeCL)
+- [Rhee - a general purpose Nepali programming language](https://github.com/biprasu/mrhee)
 - [Top Github Repos in CLI](https://github.com/techgaun/gh-top-repos)
 
 Ruby
