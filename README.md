@@ -51,6 +51,7 @@ Shell
 - [Exploit DB Search](https://github.com/techgaun/exploit-db-search)
 - [Ghatta](https://github.com/techgaun/ghatta) - Helper for generator-nm module
 - [Mustang - Video to GIF](https://github.com/techgaun/mustang)
+- [Smart Commit](https://github.com/sbimochan/smart-commit)
 
 WordPress Plugins
 -----------------
