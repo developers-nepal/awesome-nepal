@@ -56,6 +56,7 @@ Shell
 - [Ghatta](https://github.com/techgaun/ghatta) - Helper for generator-nm module
 - [Mustang - Video to GIF](https://github.com/techgaun/mustang)
 - [Smart Commit](https://github.com/sbimochan/smart-commit)
+- [gitignore](https://github.com/aviskarkc10/gitignore)
 
 WordPress Plugins
 -----------------
