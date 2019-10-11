@@ -10,6 +10,10 @@ Elixir
 - [Mustang Slackbot](https://github.com/techgaun/ex_mustang)
 - [Plug_secex](https://github.com/techgaun/plug_secex)
 
+Go
+----------
+- [forex](https://github.com/aviskarkc10/forex) - A cli tool to check the foreign exchange rates against Nepal's currency using Nepal Rastra Bank's api.
+
 JavaScript
 ----------
 - [AD BS Converter](https://github.com/techgaun/ad-bs-converter)
@@ -54,6 +58,7 @@ Shell
 - [Ghatta](https://github.com/techgaun/ghatta) - Helper for generator-nm module
 - [Mustang - Video to GIF](https://github.com/techgaun/mustang)
 - [Smart Commit](https://github.com/sbimochan/smart-commit)
+- [gitignore](https://github.com/aviskarkc10/gitignore)
 
 WordPress Plugins
 -----------------
