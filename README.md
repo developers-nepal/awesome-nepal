@@ -30,6 +30,7 @@ PHP
 ---------
 - [NPChan](https://npchan.com) - Nepal's first anonymous discussion board. ([source code](https://github.com/npchan/npchan))
 - [Phalcon-Ext](https://github.com/adhocore/phalcon-ext) - Useful phalcon adapters, middlewares, extensions and utilities!
+- [TusPHP](https://github.com/ankitpokhrel/tus-php) - Resumable file upload in PHP using tus resumable upload protocol.
 
 Python
 ---------
