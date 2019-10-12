@@ -42,7 +42,7 @@ Python
 - [Github dorks](https://github.com/techgaun/github-dorks)
 - [Nepali Calendar Indicator](https://github.com/techgaun/nepali-calendar-indicator)
 - [QuakeCL](https://github.com/amitness/QuakeCL)
-- [Rhee - a general purpose Nepali programming language](https://github.com/biprasu/mrhee)
+- [Rhee: Nepali programming language](https://github.com/biprasu/mrhee) - A general purpose Nepali Programming Language using Nepali keywords. [Try Online](http://rhee.shresthasushil.com.np/rheeonline)
 - [Top Github Repos in CLI](https://github.com/techgaun/gh-top-repos)
 
 Ruby
@@ -78,6 +78,7 @@ Misc
 -----------------
 - [Phoenix snippets for Atom](https://github.com/techgaun/phoenix-snippets)
 - [Unix time in various languages](https://github.com/techgaun/unix-time)
+- [Nepali Rhymes Finder](http://rhyme.shresthasushil.com.np/) - Given a unicode Nepali Word the web service finds rhyming word.
 - [Online Typeshala](http://typeshala.shresthasushil.com.np/) - Online utility to learn typing in Nepali and English. 
 
 Blogs
