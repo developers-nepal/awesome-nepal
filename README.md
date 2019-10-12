@@ -78,6 +78,7 @@ Misc
 -----------------
 - [Phoenix snippets for Atom](https://github.com/techgaun/phoenix-snippets)
 - [Unix time in various languages](https://github.com/techgaun/unix-time)
+- [Online Typeshala](http://typeshala.shresthasushil.com.np/) - Online utility to learn typing in Nepali and English. 
 
 Blogs
 -----------------
