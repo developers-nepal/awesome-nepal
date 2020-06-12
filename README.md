@@ -80,6 +80,7 @@ Misc
 - [Unix time in various languages](https://github.com/techgaun/unix-time)
 - [Nepali Rhymes Finder](http://rhyme.shresthasushil.com.np/) - Given a unicode Nepali Word the web service finds rhyming word.
 - [Online Typeshala](http://typeshala.shresthasushil.com.np/) - Online utility to learn typing in Nepali and English. 
+- [Swaccha Adblock Filter](https://github.com/sndsabin/swaccha-adblock-filter) - Collection of static adblock filters for various popular Nepali sites.
 
 Blogs
 -----------------
