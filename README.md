@@ -26,9 +26,11 @@ JavaScript
 - [Open Pics](https://github.com/lohanitech/openpics) - An Angular 2 and Electron based App to search Free Stock Images from multiple image sources
 - [pglistend](https://github.com/kabirbaidhya/pglistend) - Postgres LISTEN Daemon using NodeJS
 - [Prepros](https://prepros.io/)
+- [Undistracted Me](https://github.com/sidbelbase/undistracted-me) A chrome/firefox extension that replaces new tabs with minimal & distraction-free nepali date.
 - [unicode.js](https://github.com/ankitpokhrel/unicode.js)
 - [react-d3-donut](https://github.com/aviskarkc10/react-d3-donut) A `138B` react donut chart component using `d3.js`.
 - [file-exporter](https://github.com/aviskarkc10/file-exporter) A utility to export pdf and csv files from your web app.
+
 
 PHP
 ---------
