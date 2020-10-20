@@ -26,9 +26,11 @@ JavaScript
 - [Open Pics](https://github.com/lohanitech/openpics) - An Angular 2 and Electron based App to search Free Stock Images from multiple image sources
 - [pglistend](https://github.com/kabirbaidhya/pglistend) - Postgres LISTEN Daemon using NodeJS
 - [Prepros](https://prepros.io/)
+- [Undistracted Me](https://github.com/sidbelbase/undistracted-me) - A chrome/firefox extension that replaces new tabs with minimal & distraction-free nepali date. [Check Extension](https://chrome.google.com/webstore/detail/undistracted-me/dfgbijakkhepoonhaelocdmcleeehmef/)
 - [unicode.js](https://github.com/ankitpokhrel/unicode.js)
 - [react-d3-donut](https://github.com/aviskarkc10/react-d3-donut) A `138B` react donut chart component using `d3.js`.
 - [file-exporter](https://github.com/aviskarkc10/file-exporter) A utility to export pdf and csv files from your web app.
+
 
 PHP
 ---------
@@ -41,10 +43,13 @@ Python
 - [Blogger-cli](https://github.com/hemanta212/blogger-cli)
 - [DynamoDB Table Copy](https://github.com/techgaun/dynamodb-copy-table)
 - [Github dorks](https://github.com/techgaun/github-dorks)
+- [Go Away Predators](https://github.com/sidbelbase/go-away-predators) - A twitter script to remove/block all those non-mutual followers who live in your 'followers' tab.
 - [Nepali Calendar Indicator](https://github.com/techgaun/nepali-calendar-indicator)
 - [QuakeCL](https://github.com/amitness/QuakeCL)
 - [Rhee: Nepali programming language](https://github.com/biprasu/mrhee) - A general purpose Nepali Programming Language using Nepali keywords. [Try Online](http://rhee.shresthasushil.com.np/rheeonline)
 - [Top Github Repos in CLI](https://github.com/techgaun/gh-top-repos)
+- [Who Called Me?](https://github.com/sidbelbase/who-called-me) - A flask app that checks whether the number is from Ncell, Namaste, UTL, SmartCell, HelloNepal or a Landline. [Visit Site](https://whocalledme.now.sh/)
+
 
 Ruby
 ---------
