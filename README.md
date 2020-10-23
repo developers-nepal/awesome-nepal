@@ -20,7 +20,7 @@ JavaScript
 - [AD BS Converter](https://github.com/techgaun/ad-bs-converter)
 - [alert.js](https://github.com/ankitpokhrel/alert.js/)
 - [cutcode](https://github.com/amitness/cutcode) - Chrome extension to double click Stack Overflow code to copy it
-- [geoJSON-Nepal](http://mesaugat.github.io/geoJSON-Nepal/) - geoJSON data for Nepal.
+- [geoJSON-Nepal](https://mesaugat.github.io/geoJSON-Nepal/) - geoJSON data for Nepal.
 - [get-js](https://github.com/kabirbaidhya/get-js) - A lightweight promise based package to load scripts on the fly
 - [just-handlebars-helpers](https://github.com/leapfrogtechnology/just-handlebars-helpers) - A lightweight package with common handlebars helpers
 - [keycode-js](https://github.com/kabirbaidhya/keycode-js) - A javascript package with Key Code constants
