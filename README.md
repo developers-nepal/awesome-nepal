@@ -41,6 +41,7 @@ PHP
 
 Python
 ---------
+- [Alamari](https://github.com/sidbelbase/alamari) - A collection of smart utils and helper functions combined inside a single python package for mostly nepali developers.
 - [Blogger-cli](https://github.com/hemanta212/blogger-cli)
 - [DynamoDB Table Copy](https://github.com/techgaun/dynamodb-copy-table)
 - [Github dorks](https://github.com/techgaun/github-dorks)
