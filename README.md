@@ -47,6 +47,7 @@ Python
 - [Github dorks](https://github.com/techgaun/github-dorks)
 - [Go Away Predators](https://github.com/sidbelbase/go-away-predators) - A twitter script to remove/block all those non-mutual followers who live in your 'followers' tab.
 - [Nepali Calendar Indicator](https://github.com/techgaun/nepali-calendar-indicator)
+- [NepStonks](https://github.com/sidbelbase/nepstonks) - An automated bot that scrapes the latest upcoming issues, news, and investment opportunities that are announced inside Nepal and sends them to a [telegram channel](https://t.me/nepstonks).
 - [QuakeCL](https://github.com/amitness/QuakeCL)
 - [Rhee: Nepali programming language](https://github.com/biprasu/mrhee) - A general purpose Nepali Programming Language using Nepali keywords. [Try Online](http://rhee.shresthasushil.com.np/rheeonline)
 - [Top Github Repos in CLI](https://github.com/techgaun/gh-top-repos)
