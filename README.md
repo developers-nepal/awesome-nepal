@@ -14,6 +14,7 @@ Go
 ----------
 - [forex](https://github.com/aviskarkc10/forex) - A cli tool to check the foreign exchange rates against Nepal's currency using Nepal Rastra Bank's api.
 - [TRASA](https://github.com/seknox/trasa) - Secure remote access to Web, SSH, RDP and Database services.
+- [jira-cli](https://github.com/ankitpokhrel/jira-cli) - Feature-rich Interactive Jira Command Line
 
 JavaScript
 ----------
