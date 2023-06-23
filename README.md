@@ -52,6 +52,7 @@ Python
 - [DynamoDB Table Copy](https://github.com/techgaun/dynamodb-copy-table)
 - [Github dorks](https://github.com/techgaun/github-dorks)
 - [Go Away Predators](https://github.com/sidbelbase/go-away-predators) - A twitter script to remove/block all those non-mutual followers who live in your 'followers' tab.
+- [Meroshare Bot](https://github.com/bipin0x01/meroshare-bot) - Meroshare is a automation tool that takes users' demat account details and applies ipo for the desired IPO openings.
 - [Nepali Calendar Indicator](https://github.com/techgaun/nepali-calendar-indicator)
 - [NepStonks](https://github.com/sidbelbase/nepstonks) - An automated bot that scrapes the latest upcoming issues, news, and investment opportunities that are announced inside Nepal and sends them to a [telegram channel](https://t.me/nepstonks).
 - [QuakeCL](https://github.com/amitness/QuakeCL)
