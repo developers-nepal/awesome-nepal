@@ -12,7 +12,10 @@ Elixir
 
 Go
 ----------
+- [chin](https://github.com/adhocore/chin) - chin aka spin is shows a spinner as user waits for any long running jobs to finish.
+- [fast](https://github.com/adhocore/fast) - Golang util to check your internet speed/bandwidth right from your terminal.
 - [forex](https://github.com/aviskarkc10/forex) - A cli tool to check the foreign exchange rates against Nepal's currency using Nepal Rastra Bank's api.
+- [gronx](https://github.com/adhocore/gronx) - A fast Cron expression parser (due checker, next/prev due date finder), task runner, job scheduler and/or daemon for Golang and standalone usage.
 - [TRASA](https://github.com/seknox/trasa) - Secure remote access to Web, SSH, RDP and Database services.
 - [jira-cli](https://github.com/ankitpokhrel/jira-cli) - Feature-rich Interactive Jira Command Line
 
@@ -36,6 +39,8 @@ JavaScript
 
 PHP
 ---------
+- [cli](https://github.com/adhocore/php-cli) - PHP Console Application made easy- build great console apps with ease, fun and love.
+- [jwt](https://github.com/adhocore/php-jwt) - Ultra lightweight and dependency free JSON web token (JWT) library for PHP5.6 to PHP8.2.  
 - [NPChan](https://github.com/npchan/NPChan-classic) - Nepal's first anonymous discussion board.
 - [Phalcon-Ext](https://github.com/adhocore/phalcon-ext) - Useful phalcon adapters, middlewares, extensions and utilities!
 - [TusPHP](https://github.com/ankitpokhrel/tus-php) - Resumable file upload in PHP using tus resumable upload protocol.
@@ -69,6 +74,8 @@ Shell
 - [Mustang - Video to GIF](https://github.com/techgaun/mustang)
 - [Smart Commit](https://github.com/sbimochan/smart-commit)
 - [gitignore](https://github.com/aviskarkc10/gitignore)
+- [please](https://github.com/adhocore/please) - Semver release tool, auto detects tags/versions from commits, creates detailed changelogs that are configurable. And you can take control with event triggers too.
+- [tusc.sh](https://github.com/adhocore/tusc.sh) - Resumable large file upload to Tus sever from terminal using bash (tus 1.0.0 client)
 
 WordPress Plugins
 -----------------
@@ -91,6 +98,7 @@ Misc
 - [Nepali Rhymes Finder](http://rhyme.shresthasushil.com.np/) - Given a unicode Nepali Word the web service finds rhyming word.
 - [Online Typeshala](http://typeshala.shresthasushil.com.np/) - Online utility to learn typing in Nepali and English. 
 - [Swaccha Adblock Filter](https://github.com/sndsabin/swaccha-adblock-filter) - Collection of static adblock filters for various popular Nepali sites.
+- [docker-lemp](https://github.com/adhocore/docker-lemp) - A single container LEMP fullstack with latest release of PHP8.0/8.1/8.2 and MySQL, PostgreSQL, nginx, mailcatcher, beanstalkd, elasticsearch, memcached, redis, adminer and all you ever need
 
 Blogs
 -----------------
